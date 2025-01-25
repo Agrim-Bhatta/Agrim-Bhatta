@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agrim Bhatta</h1>
 <h3 align="center">Just started my coding journey</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/28e93193-1c6b-4c14-8201-3d93d9ed6e81)">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrim-bhatta&label=Profile%20views&color=0e75b6&style=flat" alt="agrim-bhatta" /> </p>
 
